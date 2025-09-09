@@ -1,5 +1,7 @@
 SBA 308: JavaScript Fundamentals
 
+https://github.com/nicyousant/sba-308-js
+
 Objectives:
 
 - Employ basic JavaScript syntax accurately.
